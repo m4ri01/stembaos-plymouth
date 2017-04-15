@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Stembaos
+Description=StembaOS Theme 
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/stembaos
+ScriptFile=/usr/share/plymouth/themes/stembaos/stembaos.script
